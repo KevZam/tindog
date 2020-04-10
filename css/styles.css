@@ -19,6 +19,15 @@ h6 {
   padding: 7% 15%;
 }
 
+/* Sections */
+.colored-section {
+  background-color: #ff4c69;
+  color: white;
+}
+
+.white-section {
+  background-color: white;
+}
 /* Headings */
 
 .big-heading {
@@ -32,11 +41,6 @@ h6 {
 
 #title .container-fluid {
   padding: 3% 15% 7%;
-}
-
-#title {
-  background-color: #ff4c69;
-  color: white;
   text-align: left;
 }
 
@@ -57,7 +61,6 @@ h6 {
 /* Features */
 
 #features {
-  background-color: white;
   position: relative;
 }
 
@@ -111,7 +114,6 @@ h6 {
 /* Testimonials */
 #testimonials {
   background-color: #ef8172;
-  color: white;
 }
 
 .testimonial-image {
@@ -151,12 +153,6 @@ h6 {
 .section-heading {
   font-size: 3rem;
   line-height: 1.5;
-}
-/* CTA */
-
-#cta {
-  background-color: #ff4c68;
-  color: white;
 }
 
 /* Footer */
